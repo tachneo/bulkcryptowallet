@@ -97,9 +97,3 @@ Feel free to fork this repository, make improvements, and submit a pull request!
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
-### Notes:
-- Replace the repository link (`https://github.com/yourusername/bsc-wallet-generator.git`) with your actual GitHub repository URL.
-- You may need to add the screenshots (mentioned in the `Screenshots` section) to the appropriate folder in your repository (`screenshots/wallet_generation.png` and `screenshots/export_wallets.png`).
-
-This format should work perfectly for GitHub's `README.md` rendering. Let me know if you need any other changes!
