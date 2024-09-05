@@ -26,7 +26,7 @@ A Python-based GUI application that generates Binance Smart Chain (BSC) wallet a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bsc-wallet-generator.git
+git clone https://github.com/tachneo/bsc-wallet-generator.git
 cd bsc-wallet-generator
 ```
 
