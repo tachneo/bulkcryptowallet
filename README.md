@@ -1,4 +1,4 @@
-Here is the **README.md** content in GitHub-ready markdown format. You can copy and paste it directly into your `README.md` file.
+Here is the complete **README.md** content wrapped entirely in code formatting (code block), so you can directly copy and paste it into GitHub:
 
 ```md
 # BSC Wallet Generator
@@ -70,11 +70,12 @@ python bsc_wallet_generator.py
 
 ## Screenshots
 
-### Wallet Generation
-![Wallet Generation](screenshots/wallet_generation.png)
+### Wallet 
+![image](https://github.com/user-attachments/assets/bd2e30eb-ebb1-4ff0-8498-be776b336f5f)
+
 
 ### Export Wallets
-![Export Wallets](screenshots/export_wallets.png)
+![image](https://github.com/user-attachments/assets/738357d1-9a7c-47e6-8749-73e9ab4ea8b1)
 
 ## Technologies Used
 
@@ -96,4 +97,3 @@ Feel free to fork this repository, make improvements, and submit a pull request!
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
